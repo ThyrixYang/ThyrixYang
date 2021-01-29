@@ -1,8 +1,12 @@
 <a href="#">
 <img align="right" src='https://github-readme-stats.vercel.app/api?username=ThyrixYang&show_icons=true'>
 </a>
+<a href="#">
+<img align="right" src='https://github-readme-stats.vercel.app/api/wakatime?username=thyrix'>
+</a>
 
 ## Thyrix (Jia-Qi Yang)
+
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
