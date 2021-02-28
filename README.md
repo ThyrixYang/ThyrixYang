@@ -24,18 +24,18 @@
 .
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-223615%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-223803%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🔥 Editors: 
-VS Code                  37 mins             █████████████████████████   100.0%
+VS Code                  4 hrs 3 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    37 mins             █████████████████████████   100.0%
+Linux                    4 hrs 3 mins        █████████████████████████   100.0%
 
 ```
 
