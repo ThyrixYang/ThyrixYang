@@ -1,3 +1,5 @@
+<div>
+
 <a href="#">
 <img align="right" src='https://github-readme-stats.vercel.app/api?username=ThyrixYang&show_icons=true'>
 </a>
@@ -5,9 +7,11 @@
 <img align="right" src='https://github-readme-stats.vercel.app/api/wakatime?username=thyrix'>
 </a>
 
+</div>
+
 ## Thyrix (Jia-Qi Yang)
 
-.
+
 
 .
 
@@ -22,6 +26,10 @@
 .
 
 .
+
+.
+
+<div>
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-223941%20lines%20of%20code-blue)
@@ -53,4 +61,6 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+
+</div>
 ![](https://hit.yhype.me/github/profile?user_id=11371254)
