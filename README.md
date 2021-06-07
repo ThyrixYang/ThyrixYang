@@ -5,7 +5,7 @@
 <img align="center" src='https://github-readme-stats.vercel.app/api?username=ThyrixYang&show_icons=true' width="500">
 </p>
 <p align="center">
-<img align="center" src='https://github-readme-stats.vercel.app/api/wakatime?username=thyrix' width="500">
+<img align="center" src='https://github-readme-stats.vercel.app/api/wakatime?username=thyrix&layuout=compact&v=2' width="500">
 </p>
 <!--
 <img align="right" src="https://wakatime.com/share/@thyrix/d633e93c-c31c-4ff6-818b-6fc9d8b77baf.svg" width="250">
