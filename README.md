@@ -1,6 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Thyrix(Jia-Qi Yang)</h1>
-<h3 align="center">.</h3>
-
+<h1 align="center">Hi, I'm Thyrix(Jia-Qi Yang)</h1>
 <p align="center">
 <img align="center" src='https://github-readme-stats.vercel.app/api?username=ThyrixYang&show_icons=true' width="500">
 </p>
